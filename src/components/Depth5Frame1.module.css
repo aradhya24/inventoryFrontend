@@ -1,0 +1,115 @@
+.vector0 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+}
+.depth9Frame0 {
+  position: absolute;
+  top: -599.5px;
+  left: -1527px;
+  width: 21px;
+  height: 18px;
+}
+.depth8Frame0 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.depth7Frame0 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-xs);
+}
+.depth6Frame0 {
+  height: 48px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-whitesmoke);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.mechanical {
+  width: 88px;
+  height: 24px;
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+}
+.depth8Frame01 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.depth7Frame01 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pens30Pencils {
+  width: 324.9px;
+  height: 21px;
+  position: relative;
+  line-height: 21px;
+  display: inline-block;
+}
+.depth7Frame1 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-sm);
+  color: var(--color-slategray-200);
+}
+.depth6Frame1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  min-width: 211px;
+  max-width: 100%;
+}
+.depth5Frame0 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) 208.0999999999999px var(--padding-2xs) 0px;
+  box-sizing: border-box;
+  gap: var(--gap-base);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+  font-family: var(--font-inter);
+}
+
+@media screen and (max-width: 767px) {
+  .depth5Frame0 {
+    padding-right: var(--padding-85xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .depth5Frame0 {
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,259 @@
+.depth5Frame2 {
+  height: 21px;
+  width: 56.4px;
+}
+.dashboard {
+  width: 73.1px;
+  height: 21px;
+  position: relative;
+  line-height: 21px;
+  font-weight: 500;
+  display: inline-block;
+
+  cursor: pointer;
+
+}
+.depth5Frame0 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.inventory {
+  width: 64px;
+  height: 21px;
+  position: relative;
+  line-height: 21px;
+  font-weight: 500;
+  display: inline-block;
+}
+.depth6Frame01 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.depth5Frame1 {
+  width: 71.8px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.profile {
+  width: 42.9px;
+  height: 21px;
+  position: relative;
+  line-height: 21px;
+  font-weight: 500;
+  display: inline-block;
+}
+.depth4Frame0 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.vector0 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+}
+.depth8Frame0 {
+  position: absolute;
+
+  top: -902.5px;
+
+  top: -17.5px;
+
+  left: -2473.2px;
+  width: 16px;
+  height: 16px;
+}
+.depth7Frame0 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.depth5Frame01 {
+  border-radius: var(--br-xs);
+  background-color: var(--color-whitesmoke);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.depth4Frame1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.depth4Frame2 {
+  height: 40px;
+  width: 40px;
+  position: relative;
+  border-radius: var(--br-xl);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 40px;
+}
+.depth3Frame1 {
+  height: 40px;
+  width: calc(100% - 783.8px);
+  margin: 0 !important;
+  position: absolute;
+  top: 12.5px;
+  right: 43.8px;
+  left: 740px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: var(--gap-13xl);
+  max-width: 100%;
+}
+.vector01 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+}
+.vector1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  z-index: 1;
+}
+.depth8Frame01 {
+  position: absolute;
+
+  top: -904.5px;
+
+  top: -19.5px;
+
+  left: -1379px;
+  width: 15.5px;
+  height: 15.5px;
+  display: none;
+}
+.depth6Frame04 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.vectorVectorFrame {
+
+.cseIotPensPencilsNotebooks {
+
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) 0px 0px;
+}
+}
+.siesGraduateSchool {
+  width: 377px;
+  height: 23px;
+  position: relative;
+  letter-spacing: -0.27px;
+  line-height: 22.5px;
+  display: inline-block;
+  white-space: nowrap;
+  max-width: 100%;
+}
+
+.textFrame {
+.siesGraduateSchoolOfTechnoWrapper {
+
+
+  width: 652px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+
+  padding: 8.799999999999955px 0px 0px;
+
+  padding: var(--padding-4xs-8) 0px 0px;
+
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-lg);
+}
+}
+.depth2Frame0 {
+  align-self: stretch;
+  border-bottom: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-smi-5) var(--padding-21xl);
+  position: sticky;
+  gap: var(--gap-base);
+  min-height: 65px;
+  top: 0;
+  z-index: 99;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+  font-family: var(--font-inter);
+}
+
+@media screen and (max-width: 1200px) {
+  .depth2Frame0 {
+    flex-direction: column;
+  }
+}
+@media screen and (max-width: 960px) {
+  .depth4Frame0 {
+    align-self: stretch;
+    height: auto;
+    flex-direction: column;
+  }
+
+  .textFrame {
+    align-self: stretch;
+    width: auto;
+  }
+
+  .depth2Frame0 {
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 668px) {
+  .textFrame {
+
+@media screen and (max-width: 767px) {
+  .siesGraduateSchoolOfTechnoWrapper {
+
+
+    display: none;
+      }
+    }
+  }
+}

@@ -1,0 +1,180 @@
+.logIn {
+  width: 62.7px;
+  height: 27.5px;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  letter-spacing: -0.33px;
+  line-height: 27.5px;
+  display: inline-block;
+  font-family: var(--font-inter);
+  color: var(--color-gray-200);
+  text-align: center;
+  white-space: nowrap;
+}
+.depth5Frame0 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.depth4Frame0 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-base) var(--padding-xs);
+}
+.forgotPassword {
+  width: 118.3px;
+  height: 21px;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 21px;
+  font-family: var(--font-inter);
+  color: var(--color-slategray-200);
+  text-align: left;
+  display: inline-block;
+}
+.depth5Frame01 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.depth4Frame3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-base) var(--padding-xs);
+}
+.signIn {
+  width: 48px;
+  height: 21px;
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.21px;
+  line-height: 21px;
+  display: inline-block;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+}
+.depth7Frame0 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.depth6Frame0 {
+  background-color: var(--color-royalblue);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.depth5Frame02 {
+  cursor: pointer;
+  border: none;
+  padding: 0px var(--padding-base);
+  background-color: var(--color-royalblue);
+  align-self: stretch;
+  width: 84px;
+  border-radius: var(--br-xs);
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.depth4Frame4 {
+  align-self: stretch;
+  height: 65px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-xs) var(--padding-base);
+  box-sizing: border-box;
+}
+.dontHaveAn {
+  width: 154.8px;
+  height: 21px;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 21px;
+  font-family: var(--font-inter);
+  color: var(--color-slategray-200);
+  text-align: center;
+  display: inline-block;
+}
+.depth4Frame5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-base) var(--padding-xs);
+}
+.signUp {
+  width: 54.4px;
+  height: 21px;
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.21px;
+  line-height: 21px;
+  display: inline-block;
+  font-family: var(--font-inter);
+  color: var(--color-gray-200);
+  text-align: left;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.depth6Frame01 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: var(--color-whitesmoke);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.depth5Frame04 {
+  align-self: stretch;
+  border-radius: var(--br-xs);
+  background-color: var(--color-whitesmoke);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0px var(--padding-base);
+}
+.depth3Frame0 {
+  margin: 0;
+  width: 512px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xl) 0px;
+  box-sizing: border-box;
+  min-height: 695px;
+  max-width: 100%;
+}
+
+@media screen and (max-width: 450px) {
+  .logIn {
+    font-size: var(--font-size-lg);
+    line-height: 22px;
+  }
+}

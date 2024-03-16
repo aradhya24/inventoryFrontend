@@ -1,0 +1,485 @@
+.depth5Frame1 {
+  width: 84px;
+  height: 32px;
+  display: none;
+}
+.inventoryManagement1 {
+  margin: 0;
+  width: 396px;
+  height: 45px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -1.19px;
+  line-height: 45px;
+  font-weight: 900;
+  font-family: inherit;
+  display: inline-block;
+}
+.depth5Frame0 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.depth5Frame0Wrapper {
+  width: 396px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px var(--padding-3xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.edit {
+  width: 25.9px;
+  height: 21px;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 21px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-gray-200);
+  text-align: left;
+  display: inline-block;
+}
+.depth8Frame0 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.depth7Frame01 {
+  background-color: var(--color-whitesmoke);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.depth6Frame01 {
+  cursor: pointer;
+  border: none;
+  padding: var(--padding-7xs-5) 29.09999999999991px var(--padding-7xs-5) 29px;
+  background-color: var(--color-whitesmoke);
+  border-radius: var(--br-xs);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.frameParent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.cseIoTPersonalSuppliesFra1 {
+  width: 948px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-base);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-17xl);
+}
+.departments {
+  margin: 0;
+  width: 138px;
+  height: 27.5px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.33px;
+  line-height: 27.5px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.depth4Frame1 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-base) var(--padding-xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.depth4Frame1Wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 6px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-3xl);
+}
+.depth9Frame0 {
+  position: absolute;
+  top: -240.5px;
+  left: -1527px;
+  width: 21px;
+  height: 19px;
+}
+.depth8Frame01 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.depth7Frame02 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-xs);
+}
+.depth6Frame03 {
+  height: 48px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-whitesmoke);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.computerScience {
+  width: 142px;
+  height: 24px;
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+}
+.depth7Frame03 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pens45Pencils {
+  width: 324.6px;
+  height: 21px;
+  position: relative;
+  line-height: 21px;
+  display: inline-block;
+}
+.depth7Frame1 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-sm);
+  color: var(--color-slategray-200);
+}
+.depth6Frame1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  min-width: 211px;
+  max-width: 100%;
+}
+.depth5Frame02 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0px var(--padding-520xl) 0px 0px;
+  box-sizing: border-box;
+  gap: var(--gap-base);
+  max-width: 100%;
+}
+.depth5Frame0Container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-base) 18px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.depth9Frame01 {
+  position: absolute;
+  top: -312.5px;
+  left: -1527px;
+  width: 21px;
+  height: 18px;
+}
+.informationTechnology {
+  width: 181px;
+  height: 24px;
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+}
+.pens30Pencils {
+  width: 324.9px;
+  height: 21px;
+  position: relative;
+  line-height: 21px;
+  display: inline-block;
+}
+.depth5Frame03 {
+  width: 609px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0px 219.5px 0px 0px;
+  box-sizing: border-box;
+  gap: var(--gap-base);
+  max-width: 100%;
+}
+.depth9Frame02 {
+  position: absolute;
+  top: -384.5px;
+  left: -1527px;
+  width: 16px;
+  height: 20px;
+}
+.artificialIntelligenceMachin {
+  width: 297px;
+  height: 24px;
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+}
+.pens35Pencils {
+  width: 324.7px;
+  height: 21px;
+  position: relative;
+  line-height: 21px;
+  display: inline-block;
+}
+.depth5Frame04 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0px var(--padding-520xl-3) 0px 0px;
+  box-sizing: border-box;
+  gap: var(--gap-base);
+  max-width: 100%;
+}
+.newarticleIcon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+}
+.depth9Frame03 {
+  position: absolute;
+  top: -456.5px;
+  left: -1527px;
+  width: 18px;
+  height: 19px;
+}
+.artificialIntelligenceAnd {
+  width: 295px;
+  height: 24px;
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+}
+.pens40Pencils {
+  width: 325.3px;
+  height: 21px;
+  position: relative;
+  line-height: 21px;
+  display: inline-block;
+}
+.depth5Frame05 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0px var(--padding-520xl) 0px 0px;
+  box-sizing: border-box;
+  gap: var(--gap-base);
+  max-width: 100%;
+}
+.depth9Frame04 {
+  position: absolute;
+  top: -528.5px;
+  left: -1527px;
+  width: 15px;
+  height: 21px;
+}
+.cseIot {
+  width: 61px;
+  height: 24px;
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+}
+.depthFramesStack {
+  width: 597px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.25px;
+  max-width: 100%;
+}
+.cseIotPens {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  max-width: 100%;
+}
+.depth5Frame0Parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  max-width: 100%;
+}
+.cseIoTPersonalSuppliesFraInner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-base);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.cseIoTPersonalSuppliesFra {
+  width: 960px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px;
+  max-width: 100%;
+}
+.cseIoTPersonalSuppliesFraWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+  font-family: var(--font-inter);
+}
+.depth1Frame0 {
+  width: 100%;
+  margin: 0 !important;
+  position: absolute;
+  height: 100%;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px var(--padding-2xs);
+  box-sizing: border-box;
+  gap: 36px;
+  max-width: 100%;
+}
+.inventoryManagement {
+  width: 100%;
+  height: 800px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  letter-spacing: normal;
+}
+
+@media screen and (max-width: 767px) {
+  .frameParent {
+    flex-wrap: wrap;
+  }
+
+  .depth5Frame03 {
+    padding-right: 109px;
+    box-sizing: border-box;
+  }
+
+  .depth1Frame0 {
+    gap: 18px;
+  }
+
+  .inventoryManagement {
+    height: auto;
+    min-height: 800;
+  }
+}
+@media screen and (max-width: 450px) {
+  .inventoryManagement1 {
+    font-size: var(--font-size-3xl);
+    line-height: 27px;
+  }
+
+  .departments {
+    font-size: var(--font-size-lg);
+    line-height: 22px;
+  }
+
+  .depth5Frame02 {
+    padding-right: var(--padding-115xl);
+    box-sizing: border-box;
+  }
+
+  .depth5Frame03 {
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+
+  .depth5Frame04 {
+    padding-right: var(--padding-115xl);
+    box-sizing: border-box;
+  }
+
+  .depth5Frame05 {
+    padding-right: var(--padding-115xl);
+    box-sizing: border-box;
+  }
+}

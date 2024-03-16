@@ -1,0 +1,211 @@
+.createYourAccount {
+  margin: 0;
+  width: 256.4px;
+  height: 35px;
+  position: relative;
+  font-size: var(--font-size-9xl);
+  letter-spacing: -0.7px;
+  line-height: 35px;
+  font-weight: 700;
+  font-family: var(--font-public-sans);
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+}
+.depth5Frame0 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.depth4Frame0 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-base) var(--padding-xs);
+}
+
+.signUp {
+  width: 52px;
+  height: 21px;
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.21px;
+  line-height: 21px;
+  display: inline-block;
+  font-family: var(--font-public-sans);
+  color: var(--color-white);
+  text-align: left;
+  white-space: nowrap;
+}
+.depth7Frame0 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.depth6Frame0 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: var(--color-dodgerblue);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.depth5Frame01 {
+  align-self: stretch;
+  flex: 1;
+  border-radius: var(--br-xs);
+  background-color: var(--color-dodgerblue);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0px var(--padding-base);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.depth4Frame5 {
+  align-self: stretch;
+  height: 64px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) var(--padding-base);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.bySigningUp {
+  width: 410.4px;
+  height: 21px;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 21px;
+  font-family: var(--font-public-sans);
+  color: var(--color-slategray);
+
+  color: var(--color-slategray-100);
+
+
+  text-align: center;
+  display: inline-block;
+  max-width: 100%;
+}
+.depth5Frame01 {
+
+.depth5Frame02 {
+
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+}
+.depth4Frame6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-base) var(--padding-xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.alreadyHaveAn {
+  width: 167.1px;
+  height: 21px;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 21px;
+  font-family: var(--font-public-sans);
+  color: var(--color-slategray);
+  text-align: center;
+  display: inline-block;
+}
+
+.depth5Frame02 {
+
+.depth5Frame03 {
+
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+}
+.depth4Frame7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-base) var(--padding-xs);
+}
+.logIn {
+  width: 41.3px;
+  height: 21px;
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.21px;
+  line-height: 21px;
+  display: inline-block;
+  font-family: var(--font-public-sans);
+  color: var(--color-gray-100);
+  text-align: left;
+  white-space: nowrap;
+}
+.depth6Frame01 {
+  cursor: pointer;
+  text-decoration: none;
+  background-color: var(--color-whitesmoke);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.depth5Frame04 {
+  align-self: stretch;
+  flex: 1;
+  border-radius: var(--br-xs);
+  background-color: var(--color-whitesmoke);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0px var(--padding-base);
+  box-sizing: border-box;
+  max-width: 100%;
+  cursor: pointer;
+}
+.depth3Frame0 {
+  margin: 0;
+  width: 512px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xl) 0px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+@media screen and (max-width: 450px) {
+  .createYourAccount {
+    font-size: var(--font-size-3xl);
+    line-height: 28px;
+  }
+}
